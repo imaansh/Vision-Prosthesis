@@ -15,5 +15,5 @@ This project explores the design and development of a prosthetic hand that uses 
 - **Mobile App Development**: Created a mobile application using **Flutter** to give users control over the prosthetic hand, enabling real-time adjustments and feedback.
 
 ## Files
-- [Project Report]([Final%20Copy%20-%20Vision%20Prosthesis.pdf](https://github.com/imaansh/Vision-Prosthesis/blob/ed35e4a3ffb1cd25841872e3f871f6b80883992e/Final%20Copy%20-%20Vision%20Prosthesis.pdf): Full report of the project.
+- [Project Report] [Final%20Copy%20-%20Vision%20Prosthesis.pdf](https://github.com/imaansh/Vision-Prosthesis/blob/ed35e4a3ffb1cd25841872e3f871f6b80883992e/Final%20Copy%20-%20Vision%20Prosthesis.pdf): Full report of the project.
 
