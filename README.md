@@ -1,4 +1,3 @@
-# Vision-Prosthesis
 # Computer Vision & EMG-Based Prosthetic Hand with Haptic Feedback
 
 ## Overview
